@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.app{
+  background: url(../src/images/Bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-bottom: 308px;
+}
