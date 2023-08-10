@@ -1,0 +1,32 @@
+.login-button{
+    background-color: rgb(238, 241, 40);
+    padding: 10px;
+    width: 108%;
+}
+.brand{
+    font-size: 30px;
+    font-weight: 700;
+    text-shadow: 1px 1px 2px gray;
+    padding-right: 220px;
+}
+.nav-item{
+    justify-content: flex-end;
+    float: left;
+
+}
+.nav-link{
+    color: black;
+    margin-left: 20px;
+    font-weight: bold;
+}
+@media (max-width: 992px) {
+    .brand{
+        padding-right: 10px;
+    }
+}
+@media (max-width: 668px) {
+    .brand{
+        padding-right: 0;
+    }
+}
+
