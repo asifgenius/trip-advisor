@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/trip-advisor/static/css/main.da357b35.css",
-    "main.js": "/trip-advisor/static/js/main.7ea973a0.js",
+    "main.css": "/trip-advisor/static/css/main.59893a2d.css",
+    "main.js": "/trip-advisor/static/js/main.cbcd2ea2.js",
     "static/js/787.e6673391.chunk.js": "/trip-advisor/static/js/787.e6673391.chunk.js",
     "static/media/Bg.png": "/trip-advisor/static/media/Bg.250bcbb74cb975e5e959.png",
-    "static/media/Map.png": "/trip-advisor/static/media/Map.fb4f57bc797dea9feec3.png",
     "static/media/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png": "/trip-advisor/static/media/google-logo-png-suite-everything-you-need-know-about-google-newest-0.0590aaf0fe36e23dcc8c.png",
     "static/media/logo.svg": "/trip-advisor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/trip-advisor/index.html",
-    "main.da357b35.css.map": "/trip-advisor/static/css/main.da357b35.css.map",
-    "main.7ea973a0.js.map": "/trip-advisor/static/js/main.7ea973a0.js.map",
+    "main.59893a2d.css.map": "/trip-advisor/static/css/main.59893a2d.css.map",
+    "main.cbcd2ea2.js.map": "/trip-advisor/static/js/main.cbcd2ea2.js.map",
     "787.e6673391.chunk.js.map": "/trip-advisor/static/js/787.e6673391.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da357b35.css",
-    "static/js/main.7ea973a0.js"
+    "static/css/main.59893a2d.css",
+    "static/js/main.cbcd2ea2.js"
   ]
 }
